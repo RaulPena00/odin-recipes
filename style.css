@@ -1,0 +1,26 @@
+*{
+    background: #727070;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10%;
+    margin-right: 11%;
+}
+
+.recipe-list{
+    font-size: 20px;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 500px;
+    margin-left: 29%;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
